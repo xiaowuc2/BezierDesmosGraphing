@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.youtube.com/channel/UCX7oe66V8zyFpAJyMfPL9VA">
-    <img src="https://github.com/xiaowuc2/xiaowuc2/blob/master/source/ranger-1/df.png" alt="Logo" width="250" height="250">
+    <img src="https://github.com/xiaowuc2/xiaowuc2/blob/master/source/ranger-1/gff.png" alt="Logo" width="250" height="250">
   </a>
   <h3 align="center">Bézier Desmos Graphing</h3>
   <p align="center">
