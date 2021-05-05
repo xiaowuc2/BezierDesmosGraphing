@@ -47,7 +47,8 @@ B(t)=∑k=0n(nk)tk(1−t)n−kPk,t∈[0,1].
   </a>
 
 
-## Setup
+### Setup
+
 Install dependencies
 ```sh
 apt update
