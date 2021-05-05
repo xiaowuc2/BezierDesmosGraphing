@@ -17,11 +17,14 @@
     <a href="https://github.com/qxresearch/Simple-Harmonic-Motion/pulse" alt="Activity">
         <img src="https://img.shields.io/github/commit-activity/m/badges/shields" /></a>
 
-### Sample
-![](github/sample.png)
+### Results
 
-### Result
-![](github/result.png)
+<p align="center">
+  <a href="https://www.youtube.com/channel/UCX7oe66V8zyFpAJyMfPL9VA">
+    <img src="https://github.com/xiaowuc2/BezierDesmosGraphing/blob/main/github/sample.png" alt="Logo" width="400" height="400">
+    <img src="https://github.com/xiaowuc2/BezierDesmosGraphing/blob/main/github/result.png" alt="Logo" width="400" height="400">
+  </a>
+
 
 ## Setup
 Install dependencies
