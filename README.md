@@ -1,6 +1,21 @@
-# Desmos Bezier Renderer
+<p align="center">
+  <a href="https://www.youtube.com/channel/UCX7oe66V8zyFpAJyMfPL9VA">
+    <img src="https://github.com/xiaowuc2/xiaowuc2/blob/master/source/SHM/shm%203.png" alt="Logo" width="250" height="250">
+  </a>
+  <h3 align="center">Bézier Desmos Graphing</h3>
+  <p align="center">
+    Plotting image/video in Desmos Graphing Calculators using Bézier Curve
+      <br />
+    <br>
+  </p>
+</p>
 
-A simple image/video to Desmos graph converter run locally
+[![GitHub](https://img.shields.io/static/v1.svg?label=Collaborators&message=1&color=success&logo=github&style=social)](https://github.com/qxresearch/Simple-Harmonic-Motion/graphs/contributors)
+[![YouTube](https://img.shields.io/static/v1.svg?label=YouTube&message=@qxresearch&color=grey&logo=youtube&style=flat&logoColor=white&colorA=critical)](https://www.youtube.com/channel/UCX7oe66V8zyFpAJyMfPL9VA)
+  [![LinkedIn](https://img.shields.io/static/v1.svg?label=LinkedIn&message=xiaowuc2&color=success&logo=linkedin&style=flat&logoColor=white&colorA=blue)](https://www.linkedin.com/in/xiaowuc2)
+  [![Quora](https://img.shields.io/static/v1.svg?label=Quora&message=85.5k+views&color=white&logo=quora&style=social)](https://www.quora.com/profile/Rohit-Prasan-Mandal)
+    <a href="https://github.com/qxresearch/Simple-Harmonic-Motion/pulse" alt="Activity">
+        <img src="https://img.shields.io/github/commit-activity/m/badges/shields" /></a>
 
 ### Sample
 ![](github/sample.png)
